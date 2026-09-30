@@ -1,0 +1,25 @@
+{
+  "engine": "Toyota 1KD",
+  "torque_specifications": [
+    {
+      "component": "Cylinder Head Bolt",
+      "specification": "1st Step: 49 Nm (500 kgf-cm), 2nd Step: Turn 90°"
+    },
+    {
+      "component": "Connecting Rod Cap Bolt",
+      "specification": "1st Step: 37 Nm (377 kgf-cm), 2nd Step: Turn 90°"
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "specification": "1st Step: 59 Nm (600 kgf-cm), 2nd Step: Turn 90°"
+    },
+    {
+      "component": "Flywheel Bolt",
+      "specification": "125 Nm (1,274 kgf-cm)"
+    },
+    {
+      "component": "Glow Plug",
+      "specification": "13 Nm (133 kgf-cm)"
+    }
+  ]
+}
